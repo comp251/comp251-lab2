@@ -1,0 +1,4 @@
+theme: minima
+title: COMP251 Lab 2 - Debugging with GDB
+description: COMP251 Lab 2 Handout
+markdown: kramdown
